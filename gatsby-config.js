@@ -75,6 +75,4 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-}
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="soniasinglas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/soniasinglas?trk=profile-badge">Sonia Singla</a></div>
-              
+}              
